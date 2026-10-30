@@ -15,7 +15,7 @@ I like the part of data work where maths meets real problems: cleaning and shapi
 
 | Project | What it does | Built with |
 |---|---|---|
-| **[Smart Helmet Safety System](https://github.com/Basmala135/grad_project)**<br>Graduation project, graded A+ | Detects motorcycle accidents from helmet sensor signals with an on-device ML model, then alerts the rider's emergency contact. I added a 20-second cancel button so a dropped helmet doesn't send a false alarm, which made it into the final system. | Python, TinyML, signal processing |
+| **[Smart Helmet Safety System](https://github.com/CyPerry/smart-helmet-accident-detection)**<br>Graduation project, graded A+ | Detects motorcycle crashes from helmet motion-sensor data with a small neural network running on the helmet's ESP32, then alerts the rider's emergency contacts. My part: windowing, class balancing and training the 1D-CNN. | Python, TensorFlow, TinyML |
 | **[AI Concierge for Egyptian SMEs](https://github.com/CyPerry/ai-concierge-sme-business-case)**<br>Business case, Vodafone Business AI Academy | A 12-month business model for an AI agent that answers the calls and WhatsApp messages small businesses miss: pricing, unit economics, Low/Base/High scenarios, sales funnel and product wireframes. | Excel modelling, product design |
 
 ## 💼 Experience
