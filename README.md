@@ -17,9 +17,6 @@ I like the part of data work where maths meets real problems: cleaning and shapi
 |---|---|---|
 | **[Smart Helmet Safety System](https://github.com/Basmala135/grad_project)**<br>Graduation project, graded A+ | Detects motorcycle accidents from helmet sensor signals with an on-device ML model, then alerts the rider's emergency contact. I added a 20-second cancel button so a dropped helmet doesn't send a false alarm, which made it into the final system. | Python, TinyML, signal processing |
 | **[AI Concierge for Egyptian SMEs](https://github.com/CyPerry/ai-concierge-sme-business-case)**<br>Business case, Vodafone Business AI Academy | A 12-month business model for an AI agent that answers the calls and WhatsApp messages small businesses miss: pricing, unit economics, Low/Base/High scenarios, sales funnel and product wireframes. | Excel modelling, product design |
-| **Egyptian Arabic speech diarization** | Working out "who spoke when" in Egyptian Arabic audio recordings. | Python, PyAnnote |
-| **Healthcare MLOps pipeline** | An end-to-end pipeline that takes a healthcare model from training to deployment. | Python, MLOps |
-| **Fraud detection** | Classification model that flags fraudulent transactions. | Python, scikit-learn |
 
 ## 💼 Experience
 
