@@ -1,6 +1,6 @@
 # Hi, I'm Perihane Tarek 👋
 
-**Data Engineer · Data Scientist** | Communications & Electronics Engineering graduate, Alexandria University | Cairo, Egypt
+**· Data Scientist** | Communications & Electronics Engineering graduate, Alexandria University | Cairo, Egypt
 
 I like the part of data work where maths meets real problems: cleaning and shaping data, building models on it, and explaining what the numbers mean for the people who have to act on them. My engineering degree gave me a signal-processing and telecom background, and statistics is the part of the job I enjoy most.
 
